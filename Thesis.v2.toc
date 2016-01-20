@@ -1,0 +1,43 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Virasoro Representation Theory}{10}
+\contentsline {section}{\numberline {1.1}Verma Modules}{11}
+\contentsline {section}{\numberline {1.2}Vertex Operator Algebras}{15}
+\contentsline {section}{\numberline {1.3}Vertex Operator Algebra Representations}{17}
+\contentsline {section}{\numberline {1.4}Minimal Models}{19}
+\contentsline {section}{\numberline {1.5}Fusion}{20}
+\contentsline {section}{\numberline {1.6}Verlinde Formula}{22}
+\contentsline {section}{\numberline {1.7}Logarithmic CFT}{23}
+\contentsline {chapter}{\numberline {2}N=1 Representation Theory}{26}
+\contentsline {section}{\numberline {2.1}$\bm {N=1}$ algebras}{26}
+\contentsline {section}{\numberline {2.2}Extended Kac tables}{31}
+\contentsline {section}{\numberline {2.3}Neveu Schwarz Verma modules}{32}
+\contentsline {section}{\numberline {2.4}Ramond Verma modules}{34}
+\contentsline {section}{\numberline {2.5}Fock spaces}{37}
+\contentsline {section}{\numberline {2.6}Kac modules}{41}
+\contentsline {chapter}{\numberline {3}Verlinde Formula}{44}
+\contentsline {section}{\numberline {3.1}A Verlinde formula}{44}
+\contentsline {section}{\numberline {3.2}Characters, modular transforms and the Verlinde formula}{44}
+\contentsline {subsection}{\numberline {3.2.1}Modular transformations}{45}
+\contentsline {subsection}{\numberline {3.2.2}Verlinde products}{47}
+\contentsline {subsection}{\numberline {3.2.3}A fermionic Verlinde formula}{49}
+\contentsline {subsection}{\numberline {3.2.4}Grothendieck fusion products}{54}
+\contentsline {chapter}{\numberline {4}Nahm Gaberdiel Kausch algorithm}{59}
+\contentsline {section}{\numberline {4.1}The Untwisted Nahm-Gaberdiel-Kausch{} Fusion Algorithm}{59}
+\contentsline {subsection}{\numberline {4.1.1}Example}{61}
+\contentsline {section}{\numberline {4.2}Fusing twisted modules}{70}
+\contentsline {section}{\numberline {4.3}Explicit fusion products}{76}
+\contentsline {subsection}{\numberline {4.3.1}Example: fusing Ramond with Ramond}{76}
+\contentsline {subsection}{\numberline {4.3.2}Example: fusing Ramond with Neveu-Schwarz{}}{81}
+\contentsline {chapter}{\numberline {5}Results}{87}
+\contentsline {section}{\numberline {5.1}Fusing $\bm {\mathcal {K}_{r,1}}$ with $\bm {\mathcal {K}_{1,s}}$}{87}
+\contentsline {section}{\numberline {5.2}Fusing near the edge}{90}
+\contentsline {section}{\numberline {5.3}An exceptional case: $\bm {c=\frac {3}{2}}$}{96}
+\contentsline {section}{\numberline {5.4}Fusing away from the edge}{97}
+\contentsline {chapter}{\numberline {A}Fusion and the Nahm-Gaberdiel-Kausch{} Algorithm}{104}
+\contentsline {section}{\numberline {A.1}Coproduct Formulae}{105}
+\contentsline {section}{\numberline {A.2}The Nahm-Gaberdiel-Kausch{} Fusion Algorithm}{111}
+\contentsline {section}{\numberline {A.3}Staggered Modules and Logarithmic Couplings}{113}
+\contentsline {chapter}{\numberline {B}Staggered Modules}{114}
+\contentsline {section}{\numberline {B.1}Logarithmic Couplings}{116}
+\contentsline {section}{\numberline {B.2}Further explicit fusion computations}{118}
+\contentsline {chapter}{\numberline {C}Code Flow Chart}{121}

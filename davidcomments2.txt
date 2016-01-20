@@ -1,0 +1,52 @@
+
+1. Declaration: too many ands.
+
+
+
+18. you need to mention that Vir minimal model reps are irreducible hw modules.  the reason for this is that these are the indecomposable VOA modules... I still feel that it makes sense to move the minimal models until after VOAs have been introduced!  then you can cite results proving the fact Vir min mod reps = irr hw mods.
+
+19. For a conformal vertex algebra, you also need L_0 to grade V by its eigenspaces.  I guess if you prefer "conformal vertex algebra" to "vertex operator algebra", then you'll have to change all VOAs when merging our papers into your thesis.
+
+
+22. p17: point 2 of Def. 1.4.1 runs badly off the page.  also, some of the text should be in math mode.  actually, given that you're using the "locality" axiom for vertex algebras, rather than the Jacobi identity, maybe you want to do the same here?  See Frenkel and Ben-Zvi?
+
+23. "Here we take... Here we will show" well you just want to consider a particular example, non-generic according to your previous paragraph, to show that the rep thy of the _simple conformal vertex algebra_ can be "small" as opposed to that of the universal one.  I would use "conformal vertex algebra" instead of vacuum module here (have you even defined "vacuum module"?)  btw, your t is wrong!
+
+24. maybe just note that V is a V-module called the vacuum module. Relations in the vacuum module are then relations in the vertex algebra, hence have to be satisfied in all modules.
+
+25. Don't use "VOA" if you're using "conformal vertex algebra" elsewhere!
+
+26. the "null vector" is actually a singular vector in the Verma module that is set to 0 when forming the vacuum module.  so it is _not_ contained in the vacuum module!
+
+27. you haven't defined "correlation function" yet!  but the fact that the null field is identically zero follows from the state-field correspondence, not correlators!
+
+28. you should mention somewhere that what you are studying in this example is the minimal model M(2,5), probably after introducing minimal models.  then, relaxing the condition that N be null means considering instead the universal vertex algebra which leads not to minimal models, but logarithmic minimal models!  why not make both minimal models and log minimal models into formal definitions?
+
+29. primary fields <-> hw states/vectors, not hw reps!
+
+30. correlation function \neq inner product of an OPE, that's just one way of computing certain 2-pt functions.  why not make a formal definition when you want to introduce correlation functions?
+
+31. your fusion definition should only involve primary fields, right? formal definition?
+
+32. computing fusion is not really the central goal of CFT, but it is one of the goals... probably computing correlators should be the central goal as these are the physical quantities.
+
+33. p20: eqn after (1.5.3):  the last w_i should be a subscript.
+
+34. later, eqn runs off page!
+
+35. cite for 3-pt function _of primaries_ !!!
+
+36. why is this example c=0?  you need to specify which singular vector you're using (ie for h = h_{1,2} or h_{2,1}) which presupposes that this belongs to a module over the vertex algebra!  But, for c=0 the minimal model only has the irr vac mod L_{1,1} = L_{1,2}.  Maybe note that here you're working over the universal vertex algebra ????
+
+37. Sec. 1.6: unknown citations.
+
+38. why not introduce the modular group formally as SL(2;Z) or PSL(2;Z) and give generators and relations?
+
+39. (1.6.3): implicit sum (or convention)?
+
+40. Verlinde conjectured his formula in 88, Moore and Seiberg showed why it should be true, Huang finally proved it rigorously.
+
+41. Sec. 1.7: The word "rational" should probably be mentioned somewhere given that the Vir and N=1 min mods are rational CFTs.  It means that the theory has finitely many irreducible vertex algebra mods and that all the vertex algebra mods are completely reducible.
+
+42. Some citations from stat mech and string theory would help:  the first LCFT studied was the GL(1|1) WZW model of Rozansky and Saleur. for stat mech, percolation is a pretty standard LCFT as is the theory of dense (or dilute) polymers.
+

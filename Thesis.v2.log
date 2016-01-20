@@ -1,0 +1,1865 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.8.4)  2 JAN 2016 15:32
+entering extended mode
+**Thesis.v2.tex
+(C:\Users\canagasabey\Dropbox\Thesis\Thesis.v2.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen111
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen114
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks18
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks19
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen123
+\extrarowheight=\dimen124
+\NC@list=\toks28
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\everycr=\toks29
+\minrowclearance=\skip53
+)
+\rownum=\count106
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
+x"
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen125
+\pgfutil@tempdimb=\dimen126
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-li
+sts.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+"
+\pgfutil@abb=\box28
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+"
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+"
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
+ode.tex"
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen127
+\pgf@y=\dimen128
+\pgf@xa=\dimen129
+\pgf@ya=\dimen130
+\pgf@xb=\dimen131
+\pgf@yb=\dimen132
+\pgf@xc=\dimen133
+\pgf@yc=\dimen134
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.d
+ef"
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-p
+df.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.
+code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.
+code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+"
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+"
+\pgfmath@dimen=\dimen135
+\pgfmath@count=\count113
+\pgfmath@box=\box29
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.
+tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigo
+nometric.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rando
+m.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.compa
+rison.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round
+.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.
+code.tex")
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integ
+erarithmetics.code.tex")))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count114
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
+de.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen136
+\pgf@picmaxx=\dimen137
+\pgf@picminy=\dimen138
+\pgf@picmaxy=\dimen139
+\pgf@pathminx=\dimen140
+\pgf@pathmaxx=\dimen141
+\pgf@pathminy=\dimen142
+\pgf@pathmaxy=\dimen143
+\pgf@xx=\dimen144
+\pgf@xy=\dimen145
+\pgf@yx=\dimen146
+\pgf@yy=\dimen147
+\pgf@zx=\dimen148
+\pgf@zy=\dimen149
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconst
+ruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen150
+\pgf@path@lasty=\dimen151
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
+.code.tex"
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen152
+\pgf@shorten@start@additional=\dimen153
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
+de.tex"
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count115
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicst
+ate.code.tex"
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen154
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
+ations.code.tex"
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen155
+\pgf@pt@y=\dimen156
+\pgf@pt@temp=\dimen157
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.cod
+e.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.c
+ode.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproce
+ssing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.co
+de.tex"
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen158
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.cod
+e.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen159
+\pgf@sys@shading@range@num=\count116
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.cod
+e.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.
+code.tex"
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box33
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.co
+de.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspare
+ncy.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.
+code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.cod
+e.tex"
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box34
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.
+tex"
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
+-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen160
+\pgf@nodesepend=\dimen161
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
+-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen162
+\pgffor@skip=\dimen163
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.cod
+e.tex"
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothan
+dlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count117
+\pgfplotmarksize=\dimen164
+)
+\tikz@lastx=\dimen165
+\tikz@lasty=\dimen166
+\tikz@lastxsaved=\dimen167
+\tikz@lastysaved=\dimen168
+\tikzleveldistance=\dimen169
+\tikzsiblingdistance=\dimen170
+\tikz@figbox=\box35
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count118
+\tikznumberofchildren=\count119
+\tikznumberofcurrentchild=\count120
+\tikz@fig@count=\count121
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.cod
+e.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count122
+\pgfmatrixcurrentcolumn=\count123
+\pgf@matrix@numberofcolumns=\count124
+)
+\tikz@expandcount=\count125
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count126
+\float@exts=\toks42
+\float@box=\box39
+\@float@everytoks=\toks43
+\@floatcapt=\box40
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.0 (rcs-revision 1.5)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.0 (rcs-revision 1.6)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.0 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.callouts.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.callouts.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibrary
+shapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.0 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box41
+\pgfnodeparttwobox=\box42
+\pgfnodepartthreebox=\box43
+\pgfnodepartfourbox=\box44
+\pgfnodeparttwentybox=\box45
+\pgfnodepartnineteenbox=\box46
+\pgfnodeparteighteenbox=\box47
+\pgfnodepartseventeenbox=\box48
+\pgfnodepartsixteenbox=\box49
+\pgfnodepartfifteenbox=\box50
+\pgfnodepartfourteenbox=\box51
+\pgfnodepartthirteenbox=\box52
+\pgfnodeparttwelvebox=\box53
+\pgfnodepartelevenbox=\box54
+\pgfnodeparttenbox=\box55
+\pgfnodepartninebox=\box56
+\pgfnodeparteightbox=\box57
+\pgfnodepartsevenbox=\box58
+\pgfnodepartsixbox=\box59
+\pgfnodepartfivebox=\box60
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.
+code.tex"
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen171
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
+)
+\c@exmp=\count127
+\c@defn=\count128
+\c@thm=\count129
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip54
+\enit@outerparindent=\dimen172
+\enit@toks=\toks44
+\enit@inbox=\box61
+\enitdp@description=\count130
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cleveref\cleveref.sty"
+Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
+Package cleveref Info: `amsthm' support loaded on input line 2858.
+Package cleveref Info: always capitalise cross-reference names on input line 74
+65.
+Package cleveref Info: always capitalise cross-reference names on input line 74
+93.
+Package cleveref Info: no abbreviation of names on input line 7493.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen173
+\captionmargin@=\dimen174
+\captionwidth=\dimen175
+\caption@tempdima=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+)
+\c@ContinuedFloat=\count131
+Package caption Info: float package is loaded.
+)
+(C:\Users\canagasabey\Dropbox\Thesis\Thesis.v2.aux
+
+LaTeX Warning: Label `sec:VerProd' multiply defined.
+
+
+LaTeX Warning: Label `sec:VerProd@cref' multiply defined.
+
+
+LaTeX Warning: Label `M1:L0' multiply defined.
+
+
+LaTeX Warning: Label `M1:L0@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master1' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master1@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master2' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master2@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master3' multiply defined.
+
+
+LaTeX Warning: Label `eq:Master3@cref' multiply defined.
+
+
+LaTeX Warning: Label `app:NGK' multiply defined.
+
+
+LaTeX Warning: Label `app:NGK@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:NGKClaim' multiply defined.
+
+
+LaTeX Warning: Label `eq:NGKClaim@cref' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 345.
+LaTeX Font Info:    ... okay on input line 345.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 345.
+LaTeX Font Info:    ... okay on input line 345.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 345.
+LaTeX Font Info:    ... okay on input line 345.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 345.
+LaTeX Font Info:    ... okay on input line 345.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 345.
+LaTeX Font Info:    ... okay on input line 345.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 345.
+LaTeX Font Info:    ... okay on input line 345.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 426.79135pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=731.23584pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen180
+\scratchbox=\box62
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen181
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks46
+) ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 350.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 350.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1
+
+] [2
+
+] [3
+
+]
+(C:\Users\canagasabey\Dropbox\Thesis\Thesis.v2.toc [4
+
+])
+\tf@toc=\write4
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+[6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+[8] [9]
+Chapter 1.
+[10
+
+]
+LaTeX Font Info:    Try loading font information for U+euf on input line 432.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\ueuf.fd"
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+
+Package natbib Warning: Citation `BirRep37' on page 11 undefined on input line 
+449.
+
+[11] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 525--527
+
+ []
+
+(C:\Users\canagasabey\Dropbox\Thesis\fig-VermaStructures.tex) [14] [15]
+[16] [17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 746--747
+
+ []
+
+[21]
+Overfull \hbox (11.07439pt too wide) in paragraph at lines 783--783
+[] 
+ []
+
+
+Overfull \hbox (12.76099pt too wide) in paragraph at lines 787--787
+[] 
+ []
+
+
+Package natbib Warning: Citation `MooCla89' on page 22 undefined on input line 
+802.
+
+
+Package natbib Warning: Citation `HuaVer04' on page 22 undefined on input line 
+802.
+
+[22] [23] [24] [25]
+Chapter 2.
+
+Package natbib Warning: Citation `MorKac14' on page 26 undefined on input line 
+899.
+
+[26
+
+] (C:\Users\canagasabey\Dropbox\Thesis\fig-ExFockKac.tex)
+
+LaTeX Warning: Reference `tab:SM45Kac' on page 27 undefined on input line 933.
+
+
+Package natbib Warning: Citation `KacVer94' on page 27 undefined on input line 
+933.
+
+[27] [28] [29]
+Overfull \hbox (25.05655pt too wide) in paragraph at lines 1009--1009
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1011
+
+ []
+
+
+Package natbib Warning: Citation `KacCon79' on page 30 undefined on input line 
+1022.
+
+
+Package natbib Warning: Citation `MeuHig86' on page 30 undefined on input line 
+1022.
+
+[30]
+Overfull \hbox (1.62445pt too wide) detected at line 1032
+\OML/cmm/m/it/12 t \OT1/cmr/m/n/12 = []\OML/cmm/m/it/12 ;  c \OT1/cmr/m/n/12 = 
+[][][]\OML/cmm/m/it/12 ;  h[] \OT1/cmr/m/n/12 = [] + []\OML/cmm/m/it/12 [];
+ []
+
+
+Package natbib Warning: Citation `EicMin85' on page 31 undefined on input line 
+1035.
+
+
+Package natbib Warning: Citation `BerSup85' on page 31 undefined on input line 
+1035.
+
+
+Package natbib Warning: Citation `AdaRat97' on page 31 undefined on input line 
+1035.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1039
+.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1039.
+
+ [31]
+
+LaTeX Warning: Float too large for page by 107.10722pt on input line 1145.
+
+
+Package natbib Warning: Citation `KacCon79' on page 32 undefined on input line 
+1159.
+
+
+Package natbib Warning: Citation `MeuHig86' on page 32 undefined on input line 
+1159.
+
+[32] [33]
+
+Package natbib Warning: Citation `RidRel15' on page 34 undefined on input line 
+1175.
+
+[34]
+
+Package natbib Warning: Citation `MeuHig86' on page 35 undefined on input line 
+1190.
+
+[35] [36]
+
+Package natbib Warning: Citation `AubZer85' on page 37 undefined on input line 
+1286.
+
+
+Package natbib Warning: Citation `IohStr06' on page 37 undefined on input line 
+1288.
+
+
+Package natbib Warning: Citation `IohStr06' on page 37 undefined on input line 
+1292.
+
+[37] [38] [39] [40]
+
+Package natbib Warning: Citation `PeaLog06' on page 41 undefined on input line 
+1547.
+
+
+Package natbib Warning: Citation `RasFus07b' on page 41 undefined on input line
+ 1547.
+
+
+Package natbib Warning: Citation `MorKac15' on page 41 undefined on input line 
+1547.
+
+[41]
+
+Package natbib Warning: Citation `CanFusI15' on page 42 undefined on input line
+ 1549.
+
+
+Package natbib Warning: Citation `MorKac15' on page 42 undefined on input line 
+1551.
+
+
+Package natbib Warning: Citation `CanFusI15' on page 42 undefined on input line
+ 1551.
+
+
+Overfull \hbox (24.15057pt too wide) in paragraph at lines 2223--2225
+[][] 
+ []
+
+[42] [43]
+Chapter 3.
+[44
+
+]
+
+Package natbib Warning: Citation `RidSL208' on page 45 undefined on input line 
+2255.
+
+
+Overfull \hbox (128.78622pt too wide) detected at line 2275
+[] []
+ []
+
+
+Package natbib Warning: Citation `CanFusI15' on page 45 undefined on input line
+ 2277.
+
+[45]
+
+Package natbib Warning: Citation `RidVer14' on page 46 undefined on input line 
+2290.
+
+
+Overfull \hbox (20.8575pt too wide) detected at line 2308
+[] []
+ []
+
+[46] [47]
+Overfull \hbox (61.76271pt too wide) in paragraph at lines 2352--2352
+[] 
+ []
+
+
+LaTeX Warning: Reference `ch:Kac' on page 1 undefined on input line 2354.
+
+
+LaTeX Warning: Reference `eq:KacCharSymm' on page 48 undefined on input line 23
+62.
+
+[48]
+
+Package natbib Warning: Citation `RidVer14' on page 49 undefined on input line 
+2375.
+
+
+Package natbib Warning: Citation `MelVer15' on page 49 undefined on input line 
+2375.
+
+[49]
+
+Package natbib Warning: Citation `RidVer14' on page 50 undefined on input line 
+2387.
+
+[50]
+
+Package natbib Warning: Citation `SchExt89' on page 51 undefined on input line 
+2401.
+
+
+Package natbib Warning: Citation `RidVer14' on page 51 undefined on input line 
+2417.
+
+
+Overfull \hbox (76.01906pt too wide) detected at line 2424
+\OT1/cmss/m/n/12 S[][][][][]\OMS/cmsy/m/n/12 F[][][] \OT1/cmr/m/n/12 = [][][][]
+[]\OMS/cmsy/m/n/12 B[][] \OT1/cmr/m/n/12 d\OMS/cmsy/m/n/12 B[] \OT1/cmr/m/n/12 
+= [][] 2 \OT1/cmss/m/n/12 s[][][]\OMS/cmsy/m/n/12 B[] ! B[][][][]B[][] \OT1/cmr
+/m/n/12 d\OMS/cmsy/m/n/12 B[]\OML/cmm/m/it/12 ;
+ []
+
+
+Overfull \hbox (48.12128pt too wide) in paragraph at lines 2431--2431
+[] 
+ []
+
+[51]
+Overfull \hbox (30.40344pt too wide) in paragraph at lines 2454--2454
+[] 
+ []
+
+
+Overfull \hbox (33.18481pt too wide) detected at line 2458
+[][]\OMS/cmsy/m/n/12 M[][] [] [][]N[][] \OT1/cmr/m/n/12 = [][][][][][][][]\OMS/
+cmsy/m/n/12 F[][] \OT1/cmr/m/n/12 d\OML/cmm/m/it/12  \OT1/cmr/m/n/12 + [][] \O
+T1/cmss/m/n/12 n[][][][][]\OMS/cmsy/m/n/12 F[][] \OT1/cmr/m/n/12 d\OML/cmm/m/it
+/12 ;
+ []
+
+[52]
+Overfull \hbox (79.68593pt too wide) in paragraph at lines 2488--2488
+[] 
+ []
+
+[53]
+
+LaTeX Warning: Reference `app:VerRat' on page 1 undefined on input line 2490.
+
+
+Package natbib Warning: Citation `GabFus09' on page 54 undefined on input line 
+2494.
+
+
+Package natbib Warning: Citation `EtiTen09' on page 54 undefined on input line 
+2494.
+
+
+Overfull \hbox (11.09856pt too wide) in paragraph at lines 2496--2497
+[]\OT1/cmr/m/n/12 In bosonic con-for-mal field the-ory, one is ac-cus-tomed to 
+iden-ti-fy-ing the Grothendieck
+ []
+
+
+Package natbib Warning: Citation `RidVer14' on page 54 undefined on input line 
+2498.
+
+[54]
+Overfull \hbox (11.74924pt too wide) detected at line 2504
+[] []
+ []
+
+
+Overfull \hbox (16.83176pt too wide) in paragraph at lines 2517--2517
+[] 
+ []
+
+[55]
+Overfull \hbox (26.02615pt too wide) detected at line 2545
+[] []
+ []
+
+[56]
+
+Package natbib Warning: Citation `CanFusI15' on page 57 undefined on input line
+ 2549.
+
+
+Overfull \hbox (78.19664pt too wide) in paragraph at lines 2565--2565
+[] 
+ []
+
+
+Package natbib Warning: Citation `CanFusI15' on page 57 undefined on input line
+ 2573.
+
+
+Package natbib Warning: Citation `CanFusI15' on page 57 undefined on input line
+ 2573.
+
+[57] [58]
+Chapter 4.
+[59
+
+] [60] [61]
+
+LaTeX Warning: Reference `sec:hwms' on page 1 undefined on input line 2632.
+
+[62]
+Overfull \hbox (89.91193pt too wide) in paragraph at lines 2663--2663
+[] 
+ []
+
+[63]
+Overfull \hbox (47.11111pt too wide) in paragraph at lines 2682--2682
+[] 
+ []
+
+[64]
+Overfull \hbox (33.1649pt too wide) in paragraph at lines 2746--2746
+[][] 
+ []
+
+
+Overfull \hbox (80.23819pt too wide) detected at line 2753
+[][][] \OMS/cmsy/m/n/12  [][][]\OML/cmm/m/it/12 :
+ []
+
+[65]
+Overfull \hbox (2.53802pt too wide) in paragraph at lines 2814--2814
+[][] 
+ []
+
+
+Package natbib Warning: Citation `RasFus07b' on page 66 undefined on input line
+ 2821.
+
+[66] [67] [68] [69]
+
+LaTeX Warning: Reference `app:TwCoprod' on page 1 undefined on input line 2882.
+
+
+
+Package natbib Warning: Citation `GabFus01' on page 70 undefined on input line 
+2884.
+
+
+Package natbib Warning: Citation `RidFus10' on page 70 undefined on input line 
+2884.
+
+
+Package natbib Warning: Citation `RidBos14' on page 70 undefined on input line 
+2884.
+
+[70]
+
+LaTeX Warning: Reference `eq:TwCoprods' on page 71 undefined on input line 2902
+.
+
+
+Overfull \hbox (110.43416pt too wide) in paragraph at lines 2911--2911
+[] 
+ []
+
+[71]
+
+LaTeX Warning: Reference `app:TwCoprod' on page 1 undefined on input line 2913.
+
+
+
+LaTeX Warning: Reference `eq:STilde' on page 72 undefined on input line 2913.
+
+
+LaTeX Warning: Reference `eq:TwOPE' on page 72 undefined on input line 2913.
+
+
+LaTeX Warning: Reference `eq:Locality' on page 72 undefined on input line 2913.
+
+
+
+LaTeX Warning: Reference `eq:TwCoprods2' on page 72 undefined on input line 291
+5.
+
+
+Overfull \hbox (57.23827pt too wide) in paragraph at lines 2921--2921
+[] 
+ []
+
+
+Overfull \hbox (59.28021pt too wide) in paragraph at lines 2921--2923
+\OT1/cmr/m/n/12 bi-na-tion of terms of the form $\OML/cmm/m/it/12 S[] [] \OMS/c
+msy/m/n/12 
+ \OML/cmm/m/it/12  []$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12  [] \OMS/cmsy/m/n/
+12 
+ \OML/cmm/m/it/12 S[] []$\OT1/cmr/m/n/12 , where $\OML/cmm/m/it/12 k \U/msa/m/n
+/12 > [][][]$\OT1/cmr/m/n/12 .
+ []
+
+[72]
+Overfull \hbox (87.482pt too wide) detected at line 2943
+[] []
+ []
+
+
+Package natbib Warning: Citation `RidBos14' on page 73 undefined on input line 
+2944.
+
+
+LaTeX Warning: Reference `eq:STilde' on page 73 undefined on input line 2946.
+
+[73]
+Overfull \hbox (80.0498pt too wide) detected at line 2955
+\OMS/cmsy/m/n/12 N[] \OT1/cmr/m/n/12 = []\OML/cmm/m/it/12 ;  \U/euf/m/n/12 U[] 
+\OT1/cmr/m/n/12 = [][][]\OML/cmm/m/it/12 :
+ []
+
+
+Overfull \hbox (97.344pt too wide) in paragraph at lines 2965--2972
+ [] 
+ []
+
+
+Overfull \hbox (137.00198pt too wide) in paragraph at lines 2975--2982
+ [][] 
+ []
+
+[74]
+
+Package natbib Warning: Citation `RidFus10' on page 75 undefined on input line 
+2991.
+
+
+Package natbib Warning: Citation `CanFusI15' on page 75 undefined on input line
+ 2997.
+
+
+Package natbib Warning: Citation `CanFusI15' on page 75 undefined on input line
+ 2997.
+
+
+LaTeX Warning: Reference `app:RStag' on page 1 undefined on input line 2997.
+
+[75] [76]
+Overfull \hbox (4.625pt too wide) in paragraph at lines 3033--3034
+[]\OT1/cmr/m/n/12 The depth $0$ trun-ca-tion of the fu-sion prod-uct is there-f
+ore at most four-dimensional: 
+ []
+
+[77]
+Overfull \hbox (25.34085pt too wide) in paragraph at lines 3065--3065
+[][] 
+ []
+
+
+LaTeX Warning: Reference `sec:Back' on page 1 undefined on input line 3067.
+
+[78]
+Overfull \hbox (2.84285pt too wide) detected at line 3099
+\OT1/cmr/m/n/12 []\OML/cmm/m/it/12 L[][] \OT1/cmr/m/n/12 = [][]\OML/cmm/m/it/1
+2 ;
+ []
+
+[79]
+
+Package natbib Warning: Citation `CanFusI15' on page 80 undefined on input line
+ 3111.
+
+
+Overfull \hbox (25.34085pt too wide) in paragraph at lines 3145--3145
+[][] 
+ []
+
+
+Package natbib Warning: Citation `CanFusI15' on page 80 undefined on input line
+ 3153.
+
+[80]
+
+Package natbib Warning: Citation `CanFusI15' on page 81 undefined on input line
+ 3161.
+
+[81] [82]
+Overfull \hbox (20.49638pt too wide) detected at line 3203
+\OT1/cmr/m/n/12 0 = []\OML/cmm/m/it/12 L[][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/1
+2 L[] \OMS/cmsy/m/n/12 
+ \OT1/cmr/bx/n/12 1 \OT1/cmr/m/n/12 + \OT1/cmr/bx/n/12 1 \OMS/cmsy/m/n/12 
+ \OML/cmm/m/it/12 L[]  \OMS/cmsy/m/n/12 )  \OT1/cmr/m/n/12 0 = []\OML/cmm/m/it
+/12 L[][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 L[] \OMS/cmsy/m/n/12 
+ \OT1/cmr/bx/n/12 1 \OT1/cmr/m/n/12 + 2\OML/cmm/m/it/12 L[] \OMS/cmsy/m/n/12 
+ \OML/cmm/m/it/12 L[] \OT1/cmr/m/n/12 + \OT1/cmr/bx/n/12 1 \OMS/cmsy/m/n/12 
+ \OML/cmm/m/it/12 L[];
+ []
+
+
+Overfull \hbox (92.93318pt too wide) detected at line 3224
+\OT1/cmr/m/n/12 0 = [][][] = \OML/cmm/m/it/12 w[]G[] \OMS/cmsy/m/n/12 
+ \OT1/cmr/bx/n/12 1 \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 [][][];
+ []
+
+[83]
+
+LaTeX Warning: Reference `eq:STilde' on page 84 undefined on input line 3235.
+
+[84]
+
+LaTeX Warning: Reference `app:RStag' on page 1 undefined on input line 3288.
+
+
+LaTeX Warning: Reference `app:RStag' on page 1 undefined on input line 3294.
+
+[85]
+
+LaTeX Warning: Reference `sec:Back' on page 1 undefined on input line 3316.
+
+
+LaTeX Warning: Reference `app:RStag' on page 1 undefined on input line 3326.
+
+[86]
+Chapter 5.
+
+Package natbib Warning: Citation `MorKac15' on page 87 undefined on input line 
+3342.
+
+[87
+
+]
+
+Package natbib Warning: Citation `CanFusII15' on page 88 undefined on input lin
+e 3358.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3378--3378
+[][]
+ []
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 3414--3414
+[][]
+ []
+
+[89]
+
+Package natbib Warning: Citation `MorKac15' on page 90 undefined on input line 
+3416.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3436--3436
+[][]
+ []
+
+[90]
+
+Package natbib Warning: Citation `EbeVir06' on page 91 undefined on input line 
+3458.
+
+
+Package natbib Warning: Citation `RasFus07b' on page 91 undefined on input line
+ 3458.
+
+[91]
+
+Package natbib Warning: Citation `CanFusII15' on page 92 undefined on input lin
+e 3475.
+
+[92]
+
+LaTeX Warning: Reference `app:RStag' on page 1 undefined on input line 3490.
+
+
+Package natbib Warning: Citation `CanFusI15' on page 93 undefined on input line
+ 3490.
+
+[93] [94]
+
+Package natbib Warning: Citation `CanFusI15' on page 95 undefined on input line
+ 3512.
+
+
+Package natbib Warning: Citation `CanFusI15' on page 95 undefined on input line
+ 3512.
+
+[95]
+
+Package natbib Warning: Citation `MilFus02' on page 96 undefined on input line 
+3593.
+
+
+Overfull \hbox (25.68156pt too wide) in paragraph at lines 3606--3606
+[] 
+ []
+
+[96]
+
+LaTeX Warning: Reference `eq:KacCharSymm' on page 97 undefined on input line 36
+13.
+
+
+Overfull \hbox (25.18129pt too wide) in paragraph at lines 3630--3630
+[][] 
+ []
+
+
+Overfull \hbox (25.18129pt too wide) in paragraph at lines 3647--3647
+[][]
+ []
+
+[97]
+Overfull \hbox (12.87143pt too wide) in paragraph at lines 3687--3687
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3719--3719
+[][]
+ []
+
+[98]
+
+Package natbib Warning: Citation `MorKac15' on page 99 undefined on input line 
+3721.
+
+
+Overfull \hbox (22.30904pt too wide) in paragraph at lines 3813--3813
+[][]
+ []
+
+
+Package natbib Warning: Citation `EbeVir06' on page 99 undefined on input line 
+3817.
+
+[99] [100]
+
+Package natbib Warning: Citation `EbeVir06' on page 101 undefined on input line
+ 3824.
+
+
+Package natbib Warning: Citation `RasFus07b' on page 101 undefined on input lin
+e 3824.
+
+
+Package natbib Warning: Citation `MorKac15' on page 101 undefined on input line
+ 3824.
+
+
+Package natbib Warning: Citation `CanFusII15' on page 101 undefined on input li
+ne 3826.
+
+
+Package natbib Warning: Citation `RidSL208' on page 101 undefined on input line
+ 3828.
+
+
+Package natbib Warning: Citation `CreMod12' on page 101 undefined on input line
+ 3828.
+
+[101
+
+]
+
+Package natbib Warning: Citation `RidRel15' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `KacQua03' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `RozQua92' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `SalGL106' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `SalSU207' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `GotWZN07' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `CreRel11' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `CreWAl11' on page 102 undefined on input line
+ 3830.
+
+
+Package natbib Warning: Citation `GKO85' on page 102 undefined on input line 38
+32.
+
+
+Package natbib Warning: Citation `GKO86' on page 102 undefined on input line 38
+32.
+
+
+Package natbib Warning: Citation `KacWak88' on page 102 undefined on input line
+ 3832.
+
+
+Package natbib Warning: Citation `KacWak89' on page 102 undefined on input line
+ 3832.
+
+
+Package natbib Warning: Citation `PRcoset13' on page 102 undefined on input lin
+e 3832.
+
+
+Package natbib Warning: Citation `Date86' on page 102 undefined on input line 3
+832.
+
+
+Package natbib Warning: Citation `Date87a' on page 102 undefined on input line 
+3832.
+
+
+Package natbib Warning: Citation `Date87b' on page 102 undefined on input line 
+3832.
+
+
+Package natbib Warning: Citation `Ahn91' on page 102 undefined on input line 38
+32.
+
+
+Package natbib Warning: Citation `Ber97' on page 102 undefined on input line 38
+32.
+
+
+Package natbib Warning: Citation `MDPR14' on page 102 undefined on input line 3
+832.
+
+[102]
+
+Package natbib Warning: Citation `GabRat96' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `FeiLog06' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `ReaAss07' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `SemNot07' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `GabFus09' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `RasPol09' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `RasIrr10' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `WooFus10' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `RasWKac11' on page 103 undefined on input lin
+e 3835.
+
+
+Package natbib Warning: Citation `TsuTen12' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `PRR1p08' on page 103 undefined on input line 
+3835.
+
+
+Package natbib Warning: Citation `RPWperc08' on page 103 undefined on input lin
+e 3835.
+
+
+Package natbib Warning: Citation `RasWLM09' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `AdaMil09' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `AdaMil08' on page 103 undefined on input line
+ 3835.
+
+
+Package natbib Warning: Citation `AdaMil09b' on page 103 undefined on input lin
+e 3835.
+
+[103]
+Appendix A.
+[104
+
+]
+
+Package natbib Warning: Citation `CanFusII15' on page 105 undefined on input li
+ne 3848.
+
+[105]
+
+Package natbib Warning: Citation `CanFusII15' on page 106 undefined on input li
+ne 3866.
+
+
+Overfull \hbox (82.03035pt too wide) in paragraph at lines 3874--3874
+[] 
+ []
+
+
+Overfull \hbox (59.22438pt too wide) detected at line 3878
+[][][][]\OML/cmm/m/it/12 z[] [] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 [] [] []w[]
+[][]:
+ []
+
+
+Overfull \hbox (34.57672pt too wide) detected at line 3884
+\OT1/cmr/m/n/12 [][]\OML/cmm/m/it/12 S[][] \OT1/cmr/m/n/12 = [] [][][] []
+ []
+
+[106]
+Overfull \hbox (9.10677pt too wide) in paragraph at lines 3894--3894
+[] 
+ []
+
+
+Overfull \hbox (40.63354pt too wide) detected at line 3906
+[] \OT1/cmr/m/n/12 = [][][][] = [][][][] = [][][][]
+ []
+
+[107]
+Overfull \hbox (47.32884pt too wide) in paragraph at lines 3914--3914
+[] 
+ []
+
+
+Overfull \hbox (57.92009pt too wide) in paragraph at lines 3933--3933
+[] 
+ []
+
+[108]
+Overfull \hbox (124.93568pt too wide) detected at line 3943
+\OML/cmm/m/it/12 L[]S[] \OT1/cmr/m/n/12 = [] [][][] [] [][]\OML/cmm/m/it/12 S[]
+L[]  \OMS/cmsy/m/n/12 )  \OT1/cmss/m/n/12 e[]\OML/cmm/m/it/12 S[] \OT1/cmr/m/n/
+12 = [] []\OML/cmm/m/it/12 w[]S[]\OT1/cmss/m/n/12 e[]\OML/cmm/m/it/12 :
+ []
+
+
+Overfull \hbox (116.15154pt too wide) in paragraph at lines 3954--3954
+[] 
+ []
+
+[109]
+
+Package natbib Warning: Citation `CanFusII15' on page 110 undefined on input li
+ne 3970.
+
+
+Overfull \hbox (21.00441pt too wide) in paragraph at lines 3972--3972
+[]\OT1/cmr/bx/n/17.28 The Nahm-Gaberdiel-Kausch Fu-sion Al-go-rithm 
+ []
+
+[110] [111] [112]
+Overfull \hbox (13.6044pt too wide) in paragraph at lines 4002--4002
+[]\OT1/cmr/bx/n/17.28 Staggered Mod-ules and Log-a-rith-mic Cou-plings 
+ []
+
+
+LaTeX Warning: Reference `sec:Results' on page 1 undefined on input line 4004.
+
+[113]
+Appendix B.
+
+Package natbib Warning: Citation `MorKac15' on page 114 undefined on input line
+ 4010.
+
+[114
+
+] [115] [116]
+Overfull \hbox (67.7207pt too wide) detected at line 4068
+\OML/cmm/m/it/12 t[][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 t[][] \OT1/cmr/m/n/12
+ + \OML/cmm/m/it/12 ";  c[][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 c[][] \OMS/cms
+y/m/n/12   \OT1/cmr/m/n/12 3[][]\OML/cmm/m/it/12 " \OT1/cmr/m/n/12 + []  \OML/c
+mm/m/it/12 ;  h[][][] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 h[][][] \OMS/cmsy/m/n/
+12   [][]\OML/cmm/m/it/12 " \OT1/cmr/m/n/12 + []  \OML/cmm/m/it/12 :
+ []
+
+[117]
+Overfull \hbox (60.53235pt too wide) detected at line 4072
+\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12   [] [] \OT1/cmr/m/n/12
+ = [] [] []\OML/cmm/m/it/12 ;
+ []
+
+
+LaTeX Warning: Reference `sec:Results' on page 1 undefined on input line 4077.
+
+
+Overfull \hbox (23.54967pt too wide) detected at line 4117
+[] []
+ []
+
+[118]
+Overfull \hbox (18.1361pt too wide) detected at line 4165
+[] []
+ []
+
+[119] [120]
+Appendix C.
+
+Overfull \hbox (9.89304pt too wide) in paragraph at lines 4250--4251
+ [] 
+ []
+
+[121
+
+]
+Overfull \vbox (53.04732pt too high) has occurred while \output is active []
+
+
+[122] (C:\Users\canagasabey\Dropbox\Thesis\Thesis.v2.bbl [123
+
+]
+Underfull \hbox (badness 1776) in paragraph at lines 79--84
+[]\OT1/cmr/m/n/12 A As-tashke-vich.  On the Struc-ture of Verma Mod-ules over V
+i-ra-soro
+ []
+
+[124] [125])
+
+Package natbib Warning: There were undefined citations.
+
+[126] (C:\Users\canagasabey\Dropbox\Thesis\Thesis.v2.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 20756 strings out of 493921
+ 410590 string characters out of 3144859
+ 745322 words of memory out of 3000000
+ 23689 multiletter control sequences out of 15000+200000
+ 26352 words of font info for 97 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 55i,27n,70p,1504b,957s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/euler/eufm10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/symbols/msam10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/symbols/msam7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/symbols/msbm10.pfb>
+Output written on Thesis.v2.pdf (127 pages, 782427 bytes).
+PDF statistics:
+ 529 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

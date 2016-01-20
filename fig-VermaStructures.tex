@@ -1,0 +1,119 @@
+\begin{figure}
+\scalebox{0.7}{
+\begin{tikzpicture}[->,>=stealth', node distance=1cm]
+
+  \node[main node] (1) [] {};
+  \node[] (point) [above of =1] {Point};
+
+  \node[main node] (2) [right = 3cm of 1] {};
+  \node[] (link) [above of =2] {Link};
+  \node[main node] (2a) [below of = 2] {};
+  \path[]
+  (2) edge node {} (2a);
+
+  \node[main node] (3) [right = 3cm of 2] {};
+  \node[] (chain) [right = 0.75cm of 3,above of =3] {Chain};
+  \node[main node] (3a) [below of =3] {};
+  \node[main node] (3b) [below of =3a] {};
+  \node[main node] (3c) [below of =3b] {};
+  \node[inner sep = 2pt] (3d) [below of =3c] {$\vdots$};
+
+  \node[] (3bot) [below =6cm of 3] {$c \le 1$};
+
+  \path[]
+  (3) edge node {} (3a)
+  (3a) edge node {} (3b)
+  (3b) edge node {} (3c)
+  (3c) edge node {} (3d);
+
+  \node[main node] (4) [right = 1.5cm of 3] {};
+  \node[main node] (4a) [below of =4] {};
+  \node[main node] (4b) [below of =4a] {};
+  \node[main node] (4c) [below of =4b] {};
+  \node[inner sep = 2pt] (4d) [below of =4c] {$\vdots$};
+  \node[main node] (4e) [below of =4d] {};
+
+  \node[] (4bot) [below =6cm of 4] {$c \ge 25$};
+
+  \path[]
+  (4) edge node {} (4a)
+  (4a) edge node {} (4b)
+  (4b) edge node {} (4c)
+  (4c) edge node {} (4d)
+  (4d) edge node {} (4e);	
+
+  \node[main node] (5) [right = 3cm of 4] {};
+  \node[] (braid) [right = 1cm of 5,above of =5] {Braid};
+  \node[main node] (5a) [below left of =5] {};
+  \node[main node] (5b) [below of =5a] {};
+  \node[main node] (5c) [below of =5b] {};
+  \node[inner sep = 2pt] (5d) [below of =5c] {$\vdots$};
+
+  \node[main node] (5e) [below right of =5] {};
+  \node[main node] (5f) [below of =5e] {};
+  \node[main node] (5g) [below of =5f] {};
+  \node[inner sep = 2pt] (5h) [below of =5g] {$\vdots$};
+
+  \node[] (5bot) [below =6cm of 5] {$c < 1$};
+
+  \path[]
+  (5) edge node {} (5a)
+  (5a) edge node {} (5b)
+  (5a) edge node {} (5f)
+  (5b) edge node {} (5c)
+  (5b) edge node {} (5g)
+  (5c) edge node {} (5d)
+  (5c) edge node {} (5h)
+ 
+  (5) edge node {} (5e)
+  (5e) edge node {} (5f)
+  (5e) edge node {} (5b)
+  (5f) edge node {} (5g)
+  (5f) edge node {} (5c)
+  (5g) edge node {} (5h)
+  (5g) edge node {} (5d);	
+
+  \node[main node] (6) [right = 2cm of 5] {};
+  \node[main node] (6a) [below left of =6] {};
+  \node[main node] (6b) [below of =6a] {};
+  \node[main node] (6c) [below of =6b] {};
+  \node[inner sep = 2pt] (6d) [below of =6c] {$\vdots$};
+  \node[main node] (6d1) [below of =6d] {};
+
+  \node[main node] (6d2) [below right = 0.75cm of 6d1] {};
+
+  \node[main node] (6e) [below right of =6] {};
+  \node[main node] (6f) [below of =6e] {};
+  \node[main node] (6g) [below of =6f] {};
+  \node[inner sep = 2pt] (6h) [below of =6g] {$\vdots$};
+  \node[main node] (6h1) [below of =6h] {};
+
+  \node[] (6bot) [below =6cm of 6] {$c > 25$};
+
+  \path[]
+  (6) edge node {} (6a)
+  (6a) edge node {} (6b)
+  (6a) edge node {} (6f)
+  (6b) edge node {} (6c)
+  (6b) edge node {} (6g)
+  (6c) edge node {} (6d)
+  (6c) edge node {} (6h)
+  (6d) edge node {} (6d1)
+  (6d) edge node {} (6h1)
+  (6d1) edge node {} (6d2)
+ 
+  (6) edge node {} (6e)
+  (6e) edge node {} (6f)
+  (6e) edge node {} (6b)
+  (6f) edge node {} (6g)
+  (6f) edge node {} (6c)
+  (6g) edge node {} (6h)
+  (6g) edge node {} (6d)
+  (6h) edge node {} (6h1)
+  (6h) edge node {} (6d1)
+  (6h1) edge node {} (6d2);	
+
+\end{tikzpicture}
+}
+\caption{The \sv{} structure, marked by black circles, of Virasoro Verma modules.  Arrows from one \sv{} to another indicate that the latter may be obtained from the former by acting with a suitable linear combination of monomials in the $L_n$.  Note that $t > 0$ corresponds to $c \le 1$ and $t < 0$ corresponds to $c \ge 25$.} \label{fig:VirVermaStructures}
+\end{figure}

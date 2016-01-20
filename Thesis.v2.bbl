@@ -1,0 +1,217 @@
+\begin{thebibliography}{10}
+
+\bibitem{GabFus94}
+M~Gaberdiel.
+\newblock {Fusion in Conformal Field Theory as the Tensor Product of the
+  Symmetry Algebra}.
+\newblock {\em Int. J. Mod. Phys.}, A9:4619--4636, 1994.
+\newblock \textsf{arXiv:\mbox{hep-th}/9307183}.
+
+\bibitem{NahQua94}
+W~Nahm.
+\newblock {Quasirational Fusion Products}.
+\newblock {\em Int. J. Mod. Phys.}, B8:3693--3702, 1994.
+\newblock \textsf{arXiv:\mbox{hep-th}/9402039}.
+
+\bibitem{GabFus94b}
+M~Gaberdiel.
+\newblock {Fusion Rules of Chiral Algebras}.
+\newblock {\em Nucl. Phys.}, B417:130--150, 1994.
+\newblock \textsf{arXiv:\mbox{hep-th}/9309105}.
+
+\bibitem{GabInd96}
+M~Gaberdiel and H~Kausch.
+\newblock {Indecomposable Fusion Products}.
+\newblock {\em Nucl. Phys.}, B477:293--318, 1996.
+\newblock \textsf{arXiv:\mbox{hep-th}/9604026}.
+
+\bibitem{RidStag09}
+K~Kytola and D~Ridout.
+\newblock {On Staggered Indecomposable Virasoro Modules}.
+\newblock {\em J.Math.Phys.}, 50, 2009.
+\newblock \textsf{arXiv:0905.0108 [\mbox{math-ph}]}.
+
+\bibitem{RohRed96}
+F~Rohsiepe.
+\newblock {On Reducible but Indecomposable Representations of the Virasoro
+  Algebra}.
+\newblock \textsf{arXiv:\mbox{hep-th}/9611160}.
+
+\bibitem{PeaLog14}
+P~Pearce, J~Rasmussen, and E~Tartaglia.
+\newblock Logarithmic superconformal minimal models.
+\newblock {\em J. Stat. Mech.}, 2014:P05001, 2014.
+\newblock \textsf{arXiv:1312.6763 [\mbox{hep-th}]}.
+
+\bibitem{CarInv86}
+H~Bl\"{o}te, J~Cardy, and M~Nightingale.
+\newblock {Conformal invariance, the central charge, and universal finite-size
+  amplitudes at criticality}.
+\newblock {\em Phys. Rev. Lett}, 56:742--745, 1986.
+
+\bibitem{MatCFT97}
+P~Di Francesco and D~Senechal P~Mathieu.
+\newblock {\em Conformal Field Theory}, volume~4 of {\em 10}.
+\newblock Springer-Verlag, New York, 1997.
+
+\bibitem{FrenkVert01}
+E~Frenkel and D~Ben-Zvi.
+\newblock {\em {Vertex Algebras and Algebraic Curves}}.
+\newblock American Mathematical Society, 2001.
+
+\bibitem{FeiFuch90}
+B.~L. Feigin and D.~B. Fuchs.
+\newblock {Representation of the Virasoro algebra}.
+\newblock {\em Advanced Studies in Contemporary Mathematics.}, 7:465--554,
+  1990.
+
+\bibitem{KacContForm79}
+V.G. Kac.
+\newblock {Contravariant form for Infinite dimensional Lie Algebras}.
+\newblock {\em Lecture Notes in Physics}, 94:441--445, 1979.
+
+\bibitem{FeiVerm83}
+B.~L. Feigin and D.~B. Fuchs.
+\newblock {Verma modules over the Virasoro algebra}.
+\newblock {\em Funktsional. Anal. i Prilozhen.}, 17:91--92, 1983.
+
+\bibitem{AstStr97}
+A~Astashkevich.
+\newblock {On the Structure of Verma Modules over Virasoro and Neveu-Schwarz
+  Algebras}.
+\newblock {\em Comm. Math. Phys.}, 186:531--562, 1997.
+\newblock \textsf{arXiv:\mbox{hep-th}/9511032}.
+
+\bibitem{Ver88}
+E~Verlinde.
+\newblock {Fusion Rules and Modular Transformations in 2D Conformal Field
+  Theory}.
+\newblock {\em Nucl. Phys. B.}, 345:59--86, 1988.
+
+\bibitem{GurLog93}
+V~Gurarie.
+\newblock {Logarithmic Operators in Conformal Field Theory}.
+\newblock {\em Nucl. Phys.B}, 410:535--549, 1993.
+\newblock \textsf{arXiv:\mbox{hep-th}/9303160}.
+
+\bibitem{CreLog13}
+T~Creutzig and D~Ridout.
+\newblock {Logarithmic Conformal Field Theory: Beyond an Introduction}.
+\newblock {\em J. Phys.}, A46:494006, 2013.
+\newblock \textsf{arXiv:1303.0847 [\mbox{hep-th}]}.
+
+\bibitem{RidLog07}
+P~Mathieu and D~Ridout.
+\newblock {From Percolation to Logarithmic Conformal Field Theory}.
+\newblock {\em Phys. Lett.}, B657:120--129, 2007.
+\newblock \textsf{arXiv:0708.0802 [\mbox{hep-th}]}.
+
+\bibitem{FriSup85}
+D~Friedan, Z~Qiu, and S~Shenker.
+\newblock Superconformal invariance in two dimensions and the tricritical
+  {Ising} model.
+\newblock {\em Phys. Lett.}, B151:37--43, 1985.
+
+\bibitem{RochNS86}
+A~Meurman and A~Rocha-Caridi.
+\newblock {Highest weight representations of the Neveu-Schwarz and Ramond
+  algebras}.
+\newblock {\em Comm. Math. Phys.}, 107:263--294, 1986.
+
+\bibitem{IohRepI03}
+K~Iohara and Y~Koga.
+\newblock {Representation Theory of Neveu-Schwarz and Ramond Algebras I: Verma
+  Modules}.
+\newblock {\em Adv. Math.}, 178:1--65, 2003.
+
+\bibitem{IohRepII03}
+K~Iohara and Y~Koga.
+\newblock {Representation Theory of Neveu-Schwarz and Ramond Algebras II. Fock
+  Modules}.
+\newblock {\em Ann. Inst. Fourier (Grenoble)}, 53:1755--1818, 2003.
+
+\bibitem{RasFus07}
+J~Rasmussen and P~Pearce.
+\newblock {Fusion Algebra of Critical Percolation}.
+\newblock {\em J. Stat. Mech.}, 0709:P09002, 2007.
+\newblock \textsf{arXiv:0706.2716 [\mbox{hep-th}]}.
+
+\bibitem{RasCla11}
+J~Rasmussen.
+\newblock {Classification of Kac Representations in the Logarithmic Minimal
+  Models $LM \left( 1,p \right)$}.
+\newblock {\em Nucl. Phys.}, B853:404--435, 2011.
+\newblock \textsf{arXiv:1012.5190 [\mbox{hep-th}]}.
+
+\bibitem{EhoFus94}
+W~Eholzer and R~H\"{u}bel.
+\newblock Fusion algebras of fermionic rational conformal field theories via a
+  generalizeed {Verlinde} formula.
+\newblock {\em Nucl. Phys.}, B414:348--378, 1994.
+\newblock \textsf{arXiv:\mbox{hep-th}/9307031}.
+
+\bibitem{SchSimp90}
+A~N Schellekens and S~Yankielowicz.
+\newblock {Simple Currents, Modular Invariants and Fixed Points}.
+\newblock {\em Int. J. Mod. Phys. A.}, 05:2903--2952, 1990.
+
+\bibitem{VasInd11}
+R~Vasseur, J~Jacobsen, and H~Saleur.
+\newblock {Indecomposability Parameters in Chiral Logarithmic Conformal Field
+  Theory}.
+\newblock {\em Nucl. Phys.}, B851:314--345, 2011.
+\newblock \textsf{arXiv:1103.3134 [\mbox{hep-th}]}.
+
+\bibitem{RidSta09}
+K~Kyt\"{o}l\"{a} and D~Ridout.
+\newblock {On Staggered Indecomposable Virasoro Modules}.
+\newblock {\em J. Math. Phys.}, 50:123503, 2009.
+\newblock \textsf{arXiv:0905.0108 [\mbox{math-ph}]}.
+
+\bibitem{RidPer07}
+P~Mathieu and D~Ridout.
+\newblock {From Percolation to Logarithmic Conformal Field Theory}.
+\newblock {\em Phys. Lett.}, B657:120--129, 2007.
+\newblock \textsf{arXiv:0708.0802 [\mbox{hep-th}]}.
+
+\bibitem{GabFus97}
+M~Gaberdiel.
+\newblock {Fusion of Twisted Representations}.
+\newblock {\em Int. J. Mod. Phys.}, A12:5183--5208, 1997.
+\newblock \textsf{arXiv:\mbox{hep-th}/9607036}.
+
+\bibitem{HuaLog07}
+Y-Z Huang, J~Lepowsky, and L~Zhang.
+\newblock {Logarithmic Tensor Product Theory for Generalized Modules for a
+  Conformal Vertex Algebra}.
+\newblock \textsf{arXiv:0710.2687 [math.QA]}.
+
+\bibitem{GaiLat13}
+A~Gainutdinov and R~Vasseur.
+\newblock {Lattice Fusion Rules and Logarithmic Operator Product Expansions}.
+\newblock {\em Nucl. Phys.}, B868:223--270, 2013.
+\newblock \textsf{arXiv:1203.6289 [\mbox{hep-th}]}.
+
+\bibitem{GurCon04}
+V~Gurarie and A~Ludwig.
+\newblock {Conformal Field Theory at Central Charge $c=0$ and Two-Dimensional
+  Critical Systems with Quenched Disorder}.
+\newblock In M~Shifman, editor, {\em From Fields to Strings: Circumnavigating
+  Theoretical Physics. Ian Kogan Memorial Collection}, volume~2, pages
+  1384--1440. World Scientific, Singapore, 2005.
+\newblock \textsf{arXiv:\mbox{hep-th}/0409105}.
+
+\bibitem{CarLog13}
+J~Cardy.
+\newblock {Logarithmic Conformal Field Theories as Limits of Ordinary CFTs and
+  Some Physical Applications}.
+\newblock {\em J. Phys.}, A46:494001, 2013.
+\newblock \textsf{arXiv:1302.4279 [\mbox{cond-mat.stat-mech}]}.
+
+\bibitem{GurLog13}
+V~Gurarie.
+\newblock {Logarithmic Operators and Logarithmic Conformal Field Theories}.
+\newblock {\em J. Phys.}, A46:494003, 2013.
+\newblock \textsf{arXiv:1303.1113 [\mbox{cond-mat.stat-mech}]}.
+
+\end{thebibliography}
